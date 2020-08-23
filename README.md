@@ -11,6 +11,8 @@ Puntos a destacar:
 
 -El proyecto no posee una validación de datos avanzada.
 
+-El archivo de SQLQuery1 contiene las intrucciones para SQL Server incluyendo la creación de datos predeterminados.
+
 -Las farmacias existentes actualmente son:
    
 
