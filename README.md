@@ -42,4 +42,3 @@ Puntos a destacar:
     
     Clave: clave4
     
--El proyecto no posee una validación de datos avanzada.
